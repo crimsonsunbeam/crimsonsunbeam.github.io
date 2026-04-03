@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <!-- Основная информация о сайте -->
+    <title>Международное сообщество виртуальных государств ВКонтакте</title>
+    <link>https://crimsonsunbeam.github.io/</link>
+    <description>Описание сайта.</description>
+
+    <!-- Один пост -->
+    <item>
+      <title>Заголовок поста</title>
+      <link>https://crimsonsunbeam.github.io/post1</link>
+      <description>Короткое описание или текст поста</description>
+      <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://crimsonsunbeam.github.io/post1</guid>
+    </item>
+
+    <!-- Другой пост -->
+    <item>
+      <title>Второй пост</title>
+      <link>https://crimsonsunbeam.github.io/post2</link>
+      <description>Описание второго поста</description>
+      <pubDate>Sat, 04 Apr 2026 15:00:00 GMT</pubDate>
+      <guid>https://crimsonsunbeam.github.io/post2</guid>
+    </item>
+
+  </channel>
+</rss>
