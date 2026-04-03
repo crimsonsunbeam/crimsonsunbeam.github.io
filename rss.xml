@@ -10,7 +10,7 @@
     <item>
       <title>Заголовок первого поста</title>
       <link>https://crimsonsunbeam.github.io</link>
-      <description>Описание первого поста.</description>
+      <description><s>Описание первого поста.</s></description>
       <pubDate>Fri, 03 Apr 2026 13:00:00 GMT</pubDate>
       <guid>21137550-247d-4ea7-bdcb-5f279bdc5fdc</guid>
     </item>
@@ -18,7 +18,7 @@
     <item>
       <title>Второй пост</title>
       <link>https://crimsonsunbeam.github.io</link>
-      <description>Описание второго поста.</description>
+      <description><b>Описание второго поста.</b></description>
       <pubDate>Sat, 03 Apr 2026 14:00:00 GMT</pubDate>
       <guid>9b16b90e-8004-46c0-b850-ae8057db988e</guid>
     </item>
