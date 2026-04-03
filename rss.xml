@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <rss version="2.0">
   <channel>
     <!-- Основная информация о сайте -->
@@ -6,22 +7,20 @@
     <link>https://crimsonsunbeam.github.io/</link>
     <description>Описание сайта.</description>
 
-    <!-- Один пост -->
     <item>
-      <title>Заголовок поста</title>
-      <link>https://crimsonsunbeam.github.io/post1</link>
-      <description>Короткое описание или текст поста</description>
+      <title>Заголовок первого поста</title>
+      <link>https://crimsonsunbeam.github.io</link>
+      <description>Описание первого поста.</description>
       <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://crimsonsunbeam.github.io/post1</guid>
+      <guid>21137550-247d-4ea7-bdcb-5f279bdc5fdc</guid>
     </item>
 
-    <!-- Другой пост -->
     <item>
       <title>Второй пост</title>
-      <link>https://crimsonsunbeam.github.io/post2</link>
-      <description>Описание второго поста</description>
+      <link>https://crimsonsunbeam.github.io</link>
+      <description>Описание второго поста.</description>
       <pubDate>Sat, 04 Apr 2026 15:00:00 GMT</pubDate>
-      <guid>https://crimsonsunbeam.github.io/post2</guid>
+      <guid>9b16b90e-8004-46c0-b850-ae8057db988e</guid>
     </item>
 
   </channel>
